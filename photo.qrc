@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>boneage/huli_0.png</file>
+        <file>boneage/huli_1.png</file>
+        <file>boneage/huli_10.png</file>
+        <file>boneage/huli_11.png</file>
+        <file>boneage/huli_12.png</file>
+        <file>boneage/huli_13.png</file>
+        <file>boneage/huli_14.png</file>
+        <file>boneage/huli_15.png</file>
+        <file>boneage/huli_16.png</file>
+        <file>boneage/huli_17.png</file>
+        <file>boneage/huli_18.png</file>
+        <file>boneage/huli_19.png</file>
+        <file>boneage/huli_2.png</file>
+        <file>boneage/huli_20.png</file>
+        <file>boneage/huli_21.png</file>
+        <file>boneage/huli_22.png</file>
+        <file>boneage/huli_23.png</file>
+        <file>boneage/huli_24.png</file>
+        <file>boneage/huli_25.png</file>
+        <file>boneage/huli_26.png</file>
+        <file>boneage/huli_27.png</file>
+        <file>boneage/huli_28.png</file>
+        <file>boneage/huli_29.png</file>
+        <file>boneage/huli_3.png</file>
+        <file>boneage/huli_30.png</file>
+        <file>boneage/huli_4.png</file>
+        <file>boneage/huli_5.png</file>
+        <file>boneage/huli_6.png</file>
+        <file>boneage/huli_7.png</file>
+        <file>boneage/huli_8.png</file>
+        <file>boneage/huli_9.png</file>
+    </qresource>
+</RCC>
